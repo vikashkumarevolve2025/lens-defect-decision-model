@@ -1,0 +1,6 @@
+file,truth,pred_type,verdict,defect_prob,confidence
+-_0012_20250616071433_bmp.rf.7fc0e0852463bd6a5122112ecaee4a2a.jpg,internal_crack,glass_stick,REVIEW,1.0,0.34
+-_0009_20250613080636_bmp.rf.0075e7db68c0faca98068d67963e518a.jpg,digs,digs,DEFECTIVE,0.97,0.57
+-_0048_20250616070730_bmp.rf.e4cae4c656e3897644f47d972ed347a7.jpg,glass_stick,digs,REVIEW,0.98,0.36
+-_0031_20250616064626_bmp.rf.9aa41c27f163651a5f94c6becaf69f2e.jpg,scratch,digs,DEFECTIVE,0.97,0.88
+-_0011_20250616065519_bmp.rf.deb695e5104c3180493e260bdb9c4f5e.jpg,glass_stick,digs,DEFECTIVE,0.97,0.57

@@ -1,0 +1,5 @@
+openai>=3.26.0
+streamlit>=1.40
+pillow>=10.0
+python-dotenv>=1.0
+roboflow>=1.1
